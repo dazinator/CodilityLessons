@@ -13,7 +13,7 @@ Reading Material: https://codility.com/media/train/Iterations.pdf
 
 Reading Material: https://codility.com/media/train/0-Arrays.pdf
 
-- [ ] - CyclicRotation
+- [X] - CyclicRotation (100%)
 - [ ] - OddOccurrencesInArray
 
 ## Lesson 3 - Time Complexity
