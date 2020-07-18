@@ -33,7 +33,7 @@ Reading Material: https://codility.com/media/train/2-CountingElements.pdf
 - [ ] - MissingInteger
 - [ ] - PermCheck
 
-## Lesson 5 - Counting Elements
+## Lesson 5 - Prefix Sums
 
 Reading Material: https://codility.com/media/train/3-PrefixSums.pdf
 
