@@ -1,6 +1,7 @@
 # CodilityLessons
 
-I am going through the codility lessons, and pushing my submitted answers to each lesson, to this repo.
+I am going through the codility lessons, and pushing my submitted answers to each lesson, to this repo as I go.
+I will be making slow progress on this!
 
 ## Lesson 1 - Iterations
 
