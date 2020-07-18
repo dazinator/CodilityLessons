@@ -41,17 +41,8 @@ class Solution
         var newArray = new int[array.Length];
         int lastElementIndex = (array.Length - numberOfTimes);
 
-        for (int i = 0; i < numberOfTimes; i++)
-        {
-            var currentOffset = lastElementIndex + i;
-            newArray[i] = array[currentOffset];
-        }
-
-        // now add remainder  
-        for (int i = 0; i < lastElementIndex; i++)
-        {
-            newArray[i + numberOfTimes] = array[i];
-        }
+        Array.Copy(array, lastElementIndex, newArray, 0, numberOfTimes);
+        Array.Copy(array, 0, newArray, numberOfTimes, lastElementIndex);
 
         return newArray;
     }
